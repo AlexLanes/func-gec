@@ -1,16 +1,16 @@
 {
-  "name": "func-gec",
-  "version": "1.0.0",
-  "type": "module",
-  "main": "src/functions/v*/*.js",
-  "description": "Função para realizar a carga de tabelas do service now no GEC",
-  "scripts": {
-    "start": "func start"
-  },
-  "dependencies": {
-    "@azure/functions": "^4.0.0-alpha.7",
-    "json-schema": "^0.4.0",
-    "node-fetch": "^3.3.2",
-    "oracledb": "^6.2.0"
-  }
+    "name": "func-gec",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "src/functions/v*/*.js",
+    "description": "Função para realizar a carga de tabelas do service now no GEC",
+    "scripts": {
+        "start": "func start"
+    },
+    "dependencies": {
+        "@azure/functions": "^4.0.0-alpha.7",
+        "json-schema": "^0.4.0",
+        "node-fetch": "^3.3.2",
+        "oracledb": "^6.2.0"
+    }
 }
