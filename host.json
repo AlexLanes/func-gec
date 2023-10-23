@@ -9,6 +9,7 @@
             "routePrefix": "api"
         }
     },
+    
     "logging": {
         "applicationInsights": {
             "samplingSettings": {
