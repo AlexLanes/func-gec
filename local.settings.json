@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "gec_controle_basic_auth": "Basic Z2VjLmludGVncmF0aW9uOiFXa3RoVnYqdUllWg==",
+    "gec_controle_apikey": "766575c868154928b278c137d91f27f0",
+    "gec_controle_host": "apid.petrobras.com.br",
+    "gec_controle_limit": "2000",
+    "gec_database_user": "GEC_INTEGRACAO_CCI",
+    "gec_database_password": "G3BRC001CI",
+    "gec_database_connection": "bdaplc09d.petrobras.com.br:1521/aplc09d.petrobras.com.br",
+    "retry_tempo_inicial": "10",
+    "retry_tentativas_maximas": "5"
+  }
+}
